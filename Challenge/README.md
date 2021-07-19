@@ -3,10 +3,15 @@
 As many employees will be retiring from the company upon reaching retirement age, the client asked for a SQL query to determine the number of employees who are retiring based on their titles.  In addition, the client asked for a SQL query to identify current employees who are eligible for the mentorship program.
 
 ## Results
-- Most of the employees who will be retiring have a current title of 
-- sf
+- Most of the employees who will be retiring have a current title of Senior Engineer or Senior Staff.
+image of retiring title output
+
+
+- Nearly 90,400 employees will be retiring based on the unique titles table.
+image of count of the emp
+
 - 
-- There are ## of current employees who are eligible for the mentorship program.
+- There are over 1,500 current employees who are eligible for the mentorship program.
 
 ## Summary
 - ## of employees will be retiring so ## roles will need to be filled.
