@@ -4,14 +4,15 @@ As many employees will be retiring from the company upon reaching retirement age
 
 ## Results
 - Most of the employees who will be retiring have a current title of Senior Engineer or Senior Staff.
-image of retiring title output
+![retiring titles](Pictures/retiring_titles.png)
 
 
 - Nearly 90,400 employees will be retiring based on the unique titles table.
-image of count of the emp
+![unique titles](Pictures/unique_titles.png)
 
 - 
 - There are over 1,500 current employees who are eligible for the mentorship program.
+![mentroship eligibility](Pictures/mentorship_eligibility.png)
 
 ## Summary
 - ## of employees will be retiring so ## roles will need to be filled.
